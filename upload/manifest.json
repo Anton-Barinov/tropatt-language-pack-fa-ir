@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-fa-ir",
+    "full_code": "crm.language-pack-fa-ir",
+    "vendor": "crm",
+    "code": "fa-ir",
+    "title": "فارسی Language Pack (فارسی)",
+    "native_name": "فارسی",
+    "direction": "rtl",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM فارسی localization pack.",
+    "signature": "3cf7afdeb82703c34e544e5f9a8efb1722d30977062ee452777c25e4864c394e"
+}

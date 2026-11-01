@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Dashboard',
+  'ideas' => 'Ideas',
+  'tasks' => 'وظایف',
+  'day' => 'My day',
+  'week' => 'My هفته',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Projects',
+  'calendar' => 'تقویم',
+  'counterparties' => 'Counterparties',
+  'teams' => 'Teams',
+  'knowledge' => 'Knowledge base',
+  'analytics' => 'Analytics',
+  'notifications' => 'اعلان‌ها',
+  'admin' => 'Administration',
+  'intake' => 'Intake',
+  'cycles' => 'Cycles (Sprints)',
+  'project_modules' => 'پروژه Modules',
+  'admin_estimates' => 'وظیفه Estimates',
+  'admin_modules' => 'Modules',
+  'chat' => 'Chats',
+  'docs' => 'Documentation',
+  'api' => 'Documentation',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

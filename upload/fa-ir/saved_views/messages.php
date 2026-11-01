@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'در حال بارگذاری...',
+  'load_error' => 'در حال بارگذاری خطا',
+  'empty' => 'No saved views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Edit',
+  'archive' => 'Archive',
+  'applied' => 'View applied: ',
+  'apply_error' => 'خطا applying View',
+  'save_as' => 'ذخیره as New View',
+  'edit_title' => 'Edit View',
+  'title_required' => 'Enter a View نام',
+  'update_error' => 'خطا updating View',
+  'create_error' => 'خطا creating View',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'خطا',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'خطا duplicating',
+  'confirm_archive' => 'Archive this View?',
+  'archived' => 'View archived',
+  'archive_error' => 'خطا archiving',
+);
