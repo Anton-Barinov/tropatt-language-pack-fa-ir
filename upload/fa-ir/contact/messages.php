@@ -2,14 +2,14 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Contact list',
-  'detail' => 'Contact details',
-  'created' => 'Contact created',
-  'updated' => 'Contact updated',
-  'deleted' => 'Contact deleted',
-  'not_found' => 'Contact not found',
-  'company_not_found' => 'Company not found',
-  'client_not_found' => 'مشتری not found',
-  'counterparty_not_found' => 'Counterparty not found',
-  'max_255' => 'Maximum 255 characters',
+  'list' => 'فهرست مخاطبان',
+  'detail' => 'جزئیات مخاطب',
+  'created' => 'مخاطب ایجاد شد',
+  'updated' => 'مخاطب به‌روزرسانی شد',
+  'deleted' => 'مخاطب حذف شد',
+  'not_found' => 'مخاطب یافت نشد',
+  'company_not_found' => 'شرکت یافت نشد',
+  'client_not_found' => 'مشتری یافت نشد',
+  'counterparty_not_found' => 'طرف مقابل یافت نشد',
+  'max_255' => 'حداکثر 255 نویسه',
 );

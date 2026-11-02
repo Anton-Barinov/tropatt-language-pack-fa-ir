@@ -2,11 +2,11 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Company list',
-  'detail' => 'Company details',
-  'created' => 'Company created',
-  'updated' => 'Company updated',
-  'deleted' => 'Company deleted',
-  'not_found' => 'Company not found',
-  'max_255' => 'Maximum 255 characters',
+  'list' => 'فهرست شرکت‌ها',
+  'detail' => 'جزئیات شرکت',
+  'created' => 'شرکت ایجاد شد',
+  'updated' => 'شرکت به‌روزرسانی شد',
+  'deleted' => 'شرکت حذف شد',
+  'not_found' => 'شرکت یافت نشد',
+  'max_255' => 'حداکثر 255 نویسه',
 );

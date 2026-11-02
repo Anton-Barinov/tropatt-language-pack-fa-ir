@@ -2,11 +2,11 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Reactions list',
-  'added' => 'Reaction added',
-  'removed' => 'Reaction removed',
-  'not_found' => 'Reaction not found',
-  'entity_required' => 'Entity public_id is ضروری',
-  'entity_type_invalid' => 'Invalid entity Type',
-  'reaction_invalid' => 'Invalid reaction',
+  'list' => 'فهرست واکنش‌ها',
+  'added' => 'واکنش افزوده شد',
+  'removed' => 'واکنش حذف شد',
+  'not_found' => 'واکنش یافت نشد',
+  'entity_required' => 'public_id موجودیت الزامی است',
+  'entity_type_invalid' => 'نوع موجودیت نامعتبر',
+  'reaction_invalid' => 'واکنش نامعتبر',
 );

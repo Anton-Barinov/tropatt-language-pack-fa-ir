@@ -2,10 +2,10 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Export jobs list',
-  'created' => 'Export job created',
-  'detail' => 'Export job details',
-  'not_found' => 'Export job not found',
-  'invalid_type' => 'Invalid export Type',
-  'public_id_required' => 'Provide export job public_id',
+  'list' => 'فهرست کارهای برون‌بری',
+  'created' => 'کار برون‌بری ایجاد شد',
+  'detail' => 'جزئیات کار برون‌بری',
+  'not_found' => 'کار برون‌بری یافت نشد',
+  'invalid_type' => 'نوع برون‌بری نامعتبر',
+  'public_id_required' => 'public_id کار برون‌بری را ارائه کنید',
 );

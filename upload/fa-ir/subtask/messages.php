@@ -2,16 +2,16 @@
 declare(strict_types=1);
 
 return array (
-  'task_not_found' => 'وظیفه not found',
-  'list' => 'Subtask list',
-  'created' => 'Subtask created',
-  'detail' => 'Subtask details',
-  'updated' => 'Subtask updated',
-  'deleted' => 'Subtask deleted',
-  'not_found' => 'Subtask not found',
-  'invalid_status' => 'Invalid وضعیت',
-  'invalid_priority' => 'Invalid Priority',
-  'invalid_due_at' => 'Invalid Due Date',
-  'max_255' => 'Maximum 255 characters',
-  'max_8000' => 'Maximum 8000 characters',
+  'task_not_found' => 'وظیفه یافت نشد',
+  'list' => 'فهرست زیرکارها',
+  'created' => 'زیرکار ایجاد شد',
+  'detail' => 'جزئیات زیرکار',
+  'updated' => 'زیرکار به‌روزرسانی شد',
+  'deleted' => 'زیرکار حذف شد',
+  'not_found' => 'زیرکار یافت نشد',
+  'invalid_status' => 'وضعیت نامعتبر',
+  'invalid_priority' => 'اولویت نامعتبر',
+  'invalid_due_at' => 'تاریخ سررسید نامعتبر',
+  'max_255' => 'حداکثر 255 نویسه',
+  'max_8000' => 'حداکثر 8000 نویسه',
 );

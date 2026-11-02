@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Feature flags list',
-  'updated' => 'Feature flag updated',
-  'update_failed' => 'Failed to Update feature flag',
+  'list' => 'فهرست سوئیچ‌های قابلیت',
+  'updated' => 'سوئیچ قابلیت به‌روزرسانی شد',
+  'update_failed' => 'به‌روزرسانی سوئیچ قابلیت ناموفق بود',
 );

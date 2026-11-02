@@ -2,5 +2,5 @@
 declare(strict_types=1);
 
 return array (
-  'not_found' => 'Cycle not found',
+  'not_found' => 'چرخه یافت نشد',
 );

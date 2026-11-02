@@ -2,5 +2,5 @@
 declare(strict_types=1);
 
 return array (
-  'stream_alive' => 'stream alive',
+  'stream_alive' => 'جریان فعال است',
 );
