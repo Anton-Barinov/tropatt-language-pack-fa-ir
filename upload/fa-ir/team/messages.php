@@ -2,11 +2,11 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'تیم list',
-  'created' => 'تیم created',
-  'detail' => 'تیم details',
-  'updated' => 'تیم updated',
-  'deleted' => 'تیم deleted',
-  'not_found' => 'تیم not found',
-  'max_255' => 'Maximum 255 characters',
+  'list' => 'فهرست تیم‌ها',
+  'created' => 'تیم ایجاد شد',
+  'detail' => 'جزئیات تیم',
+  'updated' => 'تیم به‌روزرسانی شد',
+  'deleted' => 'تیم حذف شد',
+  'not_found' => 'تیم یافت نشد',
+  'max_255' => 'حداکثر 255 نویسه',
 );

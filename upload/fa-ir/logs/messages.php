@@ -2,11 +2,11 @@
 declare(strict_types=1);
 
 return array (
-  'request_list' => 'Request logs',
-  'security_list' => 'Security logs',
-  'audit_list' => 'Audit logs',
-  'frontend_error_chart' => 'Frontend errors by hour',
-  'server_errors_unavailable' => 'Server errors log is not در دسترس',
-  'module_errors_unavailable' => 'Module errors log is not در دسترس',
-  'all_errors_unavailable' => 'Unified خطا log is not در دسترس',
+  'request_list' => 'گزارش درخواست‌ها',
+  'security_list' => 'گزارش‌های امنیتی',
+  'audit_list' => 'گزارش‌های ممیزی',
+  'frontend_error_chart' => 'خطاهای سمت کاربر به تفکیک ساعت',
+  'server_errors_unavailable' => 'گزارش خطاهای سرور در دسترس نیست',
+  'module_errors_unavailable' => 'گزارش خطاهای ماژول در دسترس نیست',
+  'all_errors_unavailable' => 'گزارش یکپارچه خطا در دسترس نیست',
 );

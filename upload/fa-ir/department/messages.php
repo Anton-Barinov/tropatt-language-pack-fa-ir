@@ -2,11 +2,11 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Department list',
-  'created' => 'Department created',
-  'detail' => 'Department details',
-  'updated' => 'Department updated',
-  'deleted' => 'Department deleted',
-  'not_found' => 'Department not found',
-  'max_255' => 'Maximum 255 characters',
+  'list' => 'فهرست دپارتمان‌ها',
+  'created' => 'دپارتمان ایجاد شد',
+  'detail' => 'جزئیات دپارتمان',
+  'updated' => 'دپارتمان به‌روزرسانی شد',
+  'deleted' => 'دپارتمان حذف شد',
+  'not_found' => 'دپارتمان یافت نشد',
+  'max_255' => 'حداکثر 255 نویسه',
 );

@@ -2,10 +2,10 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Favorites list',
-  'created' => 'Added to Favorites',
-  'deleted' => 'Removed from Favorites',
-  'not_found' => 'Favorite item not found',
-  'entity_required' => 'Entity public_id is ضروری',
-  'entity_type_invalid' => 'Invalid entity Type',
+  'list' => 'فهرست علاقه‌مندی‌ها',
+  'created' => 'به علاقه‌مندی‌ها افزوده شد',
+  'deleted' => 'از علاقه‌مندی‌ها حذف شد',
+  'not_found' => 'مورد علاقه‌مندی یافت نشد',
+  'entity_required' => 'public_id موجودیت الزامی است',
+  'entity_type_invalid' => 'نوع موجودیت نامعتبر',
 );

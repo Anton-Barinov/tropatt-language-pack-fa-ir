@@ -2,8 +2,8 @@
 declare(strict_types=1);
 
 return array (
-  'metadata' => 'Retention metadata',
-  'updated' => 'Retention metadata updated',
-  'int_gt_zero' => 'Must be an integer >= 1',
-  'enabled_boolean' => 'Field must be boolean',
+  'metadata' => 'فراداده نگهداشت',
+  'updated' => 'فراداده نگهداشت به‌روزرسانی شد',
+  'int_gt_zero' => 'باید عدد صحیح بزرگ‌تر یا مساوی 1 باشد',
+  'enabled_boolean' => 'فیلد باید بولی باشد',
 );

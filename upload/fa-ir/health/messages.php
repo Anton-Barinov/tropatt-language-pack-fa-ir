@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 return array (
-  'status' => 'Service is در دسترس',
-  'deep_ok' => 'Deep health checks passed',
-  'deep_degraded' => 'Service is در دسترس in degraded mode',
+  'status' => 'سرویس در دسترس است',
+  'deep_ok' => 'بررسی‌های عمیق سلامت با موفقیت انجام شد',
+  'deep_degraded' => 'سرویس در حالت تخریب‌یافته در دسترس است',
 );

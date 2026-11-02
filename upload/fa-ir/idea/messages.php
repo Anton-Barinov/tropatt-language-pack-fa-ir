@@ -2,320 +2,320 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Ideas list',
-  'created' => 'Idea created successfully',
-  'updated' => 'Idea updated',
-  'deleted' => 'Idea deleted',
-  'voted' => 'Vote recorded',
-  'unvoted' => 'Vote removed',
-  'status_updated' => 'Idea وضعیت updated',
-  'decomposed' => 'وظایف generated',
-  'questions_generated' => 'Questions generated',
-  'answers_saved' => 'Answers saved',
-  'analysis_retried' => 'Analysis retried',
-  'title_required' => 'Idea عنوان is ضروری',
-  'notif_idea_created_title' => 'Idea created',
-  'notif_idea_created_body' => 'Your idea',
-  'notif_idea_created_body2' => 'has been successfully created.',
-  'notif_idea_voted_title' => 'New vote for idea',
-  'notif_idea_voted_body' => 'A کاربر voted for your idea',
-  'notif_idea_status_changed_title' => 'Idea وضعیت changed',
-  'notif_idea_status_changed_body1' => 'وضعیت of your idea',
-  'notif_idea_status_changed_body2' => 'changed to',
-  'current_state' => 'Current state',
-  'data_sufficient_click_analyze' => 'Sufficient داده‌ها. Click "Run Analysis".',
-  'answer_questions_click_send' => 'Answer clarification questions and click "Submit".',
-  'questions_formed_safe_mode' => 'Questions formed (safe mode)',
-  'answer_for_quality_analysis' => 'For quality analysis, please answer the clarification questions.',
-  'ai_service_unavailable' => 'AI service temporarily unavailable. Please try again later.',
-  'analysis_completed' => 'Analysis تکمیل‌شده',
-  'answer_questions_then_send' => 'Answer clarification questions and click "Submit".',
-  'data_sufficient_can_analyze' => 'Sufficient داده‌ها. Analysis can be run.',
-  'ai_provider_not_responding' => 'AI provider is not responding. Please try again later.',
-  'data_sufficient' => 'Sufficient داده‌ها',
-  'data_sufficient_for_analysis' => 'Sufficient داده‌ها for analysis.',
-  'no_new_questions_remaining' => 'No New clarification questions remaining. Analysis can be started.',
-  'no_new_questions_can_analyze' => 'No New clarification questions remaining. Analysis can be run.',
-  'need_clarification' => 'Clarification needed',
-  'answers_saved_need_clarification' => 'Answers saved. Clarification needed.',
-  'answers_saved_need_more_clarification' => 'Answers saved. Additional clarification needed.',
-  'answers_saved_label' => 'Answers saved',
-  'answers_saved_can_analyze' => 'Answers saved. Analysis can be run.',
-  'refine_failed' => 'Failed to process answers. Please try again.',
-  'debug_logs_cleared' => 'AI logs cleared',
-  'answer_dont_know' => 'DON\'T KNOW',
-  'no_answer' => 'No answer',
-  'ai_analyst_system_prompt' => 'You are an ideas analyst. Analyze the داده‌ها and find gaps.',
-  'ai_analysis_failed' => 'AI was unable to run the analysis',
-  'ai_feature_disabled' => 'AI ideas are disabled for this installation.',
-  'ai_card_failed' => 'AI was unable to build the card. Please try again later.',
-  'card_first_required' => 'First build the idea understanding card.',
-  'ai_gaps_failed' => 'AI was unable to find gaps',
-  'ai_refine_card_failed' => 'AI was unable to refine the card.',
-  'ai_potential_failed' => 'AI was unable to calculate potential.',
-  'ai_risk_fallback_summary' => 'AI was unable to complete risk analysis. Try another AI provider for More accurate results.',
-  'ai_risks_failed' => 'AI was unable to calculate Risks.',
-  'ai_pitfalls_fallback_summary' => 'AI was unable to complete analysis.',
-  'ai_pitfalls_failed' => 'AI was unable to find hidden pitfalls.',
-  'ai_plan_fallback_summary' => 'AI was unable to complete the plan.',
-  'ai_plan_failed' => 'AI was unable to build the plan.',
-  'ai_recommendation_failed' => 'AI was unable to generate a recommendation.',
-  'ai_tasks_fallback_summary' => 'AI was unable to generate وظایف.',
-  'ai_tasks_failed' => 'AI was unable to suggest وظایف.',
-  'generate_tasks_first' => 'First generate the suggested وظایف.',
-  'no_tasks_to_create' => 'No وظایف to ایجاد.',
+  'list' => 'فهرست ایده‌ها',
+  'created' => 'ایده با موفقیت ایجاد شد',
+  'updated' => 'ایده به‌روزرسانی شد',
+  'deleted' => 'ایده حذف شد',
+  'voted' => 'رأی ثبت شد',
+  'unvoted' => 'رأی حذف شد',
+  'status_updated' => 'وضعیت ایده به‌روزرسانی شد',
+  'decomposed' => 'وظایف تولید شدند',
+  'questions_generated' => 'پرسش‌ها تولید شدند',
+  'answers_saved' => 'پاسخ‌ها ذخیره شد',
+  'analysis_retried' => 'تحلیل دوباره اجرا شد',
+  'title_required' => 'عنوان ایده الزامی است',
+  'notif_idea_created_title' => 'ایده ایجاد شد',
+  'notif_idea_created_body' => 'ایده شما',
+  'notif_idea_created_body2' => 'با موفقیت ایجاد شد.',
+  'notif_idea_voted_title' => 'رأی جدید برای ایده',
+  'notif_idea_voted_body' => 'کاربری برای ایده شما رأی داد',
+  'notif_idea_status_changed_title' => 'وضعیت ایده تغییر کرد',
+  'notif_idea_status_changed_body1' => 'وضعیت ایده شما',
+  'notif_idea_status_changed_body2' => 'تغییر کرد به',
+  'current_state' => 'وضعیت فعلی',
+  'data_sufficient_click_analyze' => 'داده کافی است. روی «اجرای تحلیل» کلیک کنید.',
+  'answer_questions_click_send' => 'به پرسش‌های شفاف‌سازی پاسخ دهید و روی «ثبت» کلیک کنید.',
+  'questions_formed_safe_mode' => 'پرسش‌ها شکل گرفتند (حالت ایمن)',
+  'answer_for_quality_analysis' => 'برای تحلیل باکیفیت، به پرسش‌های شفاف‌سازی پاسخ دهید.',
+  'ai_service_unavailable' => 'سرویس AI موقتاً در دسترس نیست. بعداً دوباره تلاش کنید.',
+  'analysis_completed' => 'تحلیل تکمیل شد',
+  'answer_questions_then_send' => 'به پرسش‌های شفاف‌سازی پاسخ دهید و روی «ثبت» کلیک کنید.',
+  'data_sufficient_can_analyze' => 'داده کافی است. تحلیل را می‌توان اجرا کرد.',
+  'ai_provider_not_responding' => 'ارائه‌دهنده AI پاسخ نمی‌دهد. بعداً دوباره تلاش کنید.',
+  'data_sufficient' => 'داده کافی است',
+  'data_sufficient_for_analysis' => 'داده کافی برای تحلیل وجود دارد.',
+  'no_new_questions_remaining' => 'پرسش شفاف‌سازی جدیدی باقی نمانده. تحلیل را می‌توان آغاز کرد.',
+  'no_new_questions_can_analyze' => 'پرسش شفاف‌سازی جدیدی باقی نمانده. تحلیل را می‌توان اجرا کرد.',
+  'need_clarification' => 'شفاف‌سازی لازم است',
+  'answers_saved_need_clarification' => 'پاسخ‌ها ذخیره شد. شفاف‌سازی لازم است.',
+  'answers_saved_need_more_clarification' => 'پاسخ‌ها ذخیره شد. شفاف‌سازی بیشتری لازم است.',
+  'answers_saved_label' => 'پاسخ‌ها ذخیره شد',
+  'answers_saved_can_analyze' => 'پاسخ‌ها ذخیره شد. تحلیل را می‌توان اجرا کرد.',
+  'refine_failed' => 'پردازش پاسخ‌ها ناموفق بود. دوباره تلاش کنید.',
+  'debug_logs_cleared' => 'گزارش‌های AI پاک شدند',
+  'answer_dont_know' => 'نمی‌دانم',
+  'no_answer' => 'بدون پاسخ',
+  'ai_analyst_system_prompt' => 'تو یک تحلیلگر ایده‌ای. داده‌ها را تحلیل و شکاف‌ها را بیاب.',
+  'ai_analysis_failed' => 'AI نتوانست تحلیل را اجرا کند',
+  'ai_feature_disabled' => 'ایده‌های AI برای این نصب غیرفعال است.',
+  'ai_card_failed' => 'AI نتوانست کارت را بسازد. بعداً دوباره تلاش کنید.',
+  'card_first_required' => 'ابتدا کارت درک ایده را بسازید.',
+  'ai_gaps_failed' => 'AI نتوانست شکاف‌ها را بیابد',
+  'ai_refine_card_failed' => 'AI نتوانست کارت را اصلاح کند.',
+  'ai_potential_failed' => 'AI نتوانست پتانسیل را محاسبه کند.',
+  'ai_risk_fallback_summary' => 'AI نتوانست تحلیل ریسک را کامل کند. برای نتایج دقیق‌تر ارائه‌دهنده AI دیگری را امتحان کنید.',
+  'ai_risks_failed' => 'AI نتوانست ریسک‌ها را محاسبه کند.',
+  'ai_pitfalls_fallback_summary' => 'AI نتوانست تحلیل را کامل کند.',
+  'ai_pitfalls_failed' => 'AI نتوانست دام‌های پنهان را بیابد.',
+  'ai_plan_fallback_summary' => 'AI نتوانست برنامه را کامل کند.',
+  'ai_plan_failed' => 'AI نتوانست برنامه را بسازد.',
+  'ai_recommendation_failed' => 'AI نتوانست توصیه‌ای تولید کند.',
+  'ai_tasks_fallback_summary' => 'AI نتوانست وظایف را تولید کند.',
+  'ai_tasks_failed' => 'AI نتوانست وظایفی پیشنهاد کند.',
+  'generate_tasks_first' => 'ابتدا وظایف پیشنهادی را تولید کنید.',
+  'no_tasks_to_create' => 'وظیفه‌ای برای ایجاد وجود ندارد.',
   'project_label' => 'پروژه',
   'task_label' => 'وظیفه',
-  'project_created' => 'پروژه created',
+  'project_created' => 'پروژه ایجاد شد',
   'project_created_tasks' => 'وظایف',
-  'interview_cleared' => 'Question and answer history cleared',
-  'interview_limit_reached' => 'Question limit reached (25)',
-  'ai_questions_generation_failed' => 'AI was unable to generate questions. Please try again later.',
-  'no_answers_to_save' => 'No answers to ذخیره',
-  'option_not_sure' => 'Not sure yet',
-  'option_custom_answer' => 'Custom answer',
-  'analysis_reset_failed' => 'Failed to Reset AI analysis.',
-  'analysis_reset' => 'AI analysis Reset. You can start again.',
-  'analysis_reset_message' => 'Old AI analysis داده‌ها cleared. Click "Run" for a New analysis.',
-  'analysis_not_ready_status' => 'Analysis can only be started from ready_for_analysis وضعیت.',
-  'analysis_already_running' => 'Analysis already running',
-  'analysis_queued' => 'Analysis queued',
-  'no_pending_steps' => 'No در انتظار steps',
-  'awaiting_human_input' => 'Awaiting human input',
-  'step_busy' => 'This step is already being processed by another worker',
-  'analysis_pipeline_conflict' => 'This idea was already analysed by the browser pipeline; the MCP analysis must not overwrite its state. Reset the analysis first (crm_reset_idea_analysis).',
-  'answer_all_questions_first' => 'Answer همه clarification questions before starting the analysis.',
-  'demo_analysis' => 'Demo analysis (safe mode)',
-  'demo_mode_message' => 'Demo mode. For real AI analysis, disable safe_mode.',
-  'analysis_completed_label' => 'Analysis تکمیل‌شده',
-  'analysis_complete_full' => 'Full analysis ready.',
+  'interview_cleared' => 'تاریخچه پرسش و پاسخ پاک شد',
+  'interview_limit_reached' => 'سقف پرسش‌ها پر شد (25)',
+  'ai_questions_generation_failed' => 'AI نتوانست پرسش‌ها را تولید کند. بعداً دوباره تلاش کنید.',
+  'no_answers_to_save' => 'پاسخی برای ذخیره وجود ندارد',
+  'option_not_sure' => 'هنوز مطمئن نیستم',
+  'option_custom_answer' => 'پاسخ سفارشی',
+  'analysis_reset_failed' => 'بازنشانی تحلیل AI ناموفق بود.',
+  'analysis_reset' => 'تحلیل AI بازنشانی شد. می‌توانید دوباره شروع کنید.',
+  'analysis_reset_message' => 'داده‌های تحلیل قبلی AI پاک شد. برای تحلیل جدید روی «اجرا» کلیک کنید.',
+  'analysis_not_ready_status' => 'تحلیل فقط از وضعیت ready_for_analysis قابل آغاز است.',
+  'analysis_already_running' => 'تحلیل از قبل در حال اجراست',
+  'analysis_queued' => 'تحلیل در صف قرار گرفت',
+  'no_pending_steps' => 'مرحله در انتظاری وجود ندارد',
+  'awaiting_human_input' => 'در انتظار ورود انسانی',
+  'step_busy' => 'این مرحله از قبل توسط پردازنده دیگری در حال اجراست',
+  'analysis_pipeline_conflict' => 'این ایده از قبل توسط خط لوله مرورگر تحلیل شده است؛ تحلیل MCP نباید وضعیت آن را بازنویسی کند. ابتدا تحلیل را بازنشانی کنید (crm_reset_idea_analysis).',
+  'answer_all_questions_first' => 'پیش از شروع تحلیل، به همه پرسش‌های شفاف‌سازی پاسخ دهید.',
+  'demo_analysis' => 'تحلیل نمایشی (حالت ایمن)',
+  'demo_mode_message' => 'حالت نمایشی. برای تحلیل واقعی AI، حالت safe_mode را غیرفعال کنید.',
+  'analysis_completed_label' => 'تحلیل تکمیل شد',
+  'analysis_complete_full' => 'تحلیل کامل آماده است.',
   'analysis_complete_partial' => 'تکمیل‌شده',
-  'analysis_complete_of' => 'of',
-  'analysis_complete_steps' => 'steps.',
-  'unknown_step_key' => 'ناشناخته step_key.',
-  'analysis_step_done' => 'Analysis step تکمیل‌شده',
-  'empty_analysis_result' => 'Empty result_json for analysis step.',
-  'plan_title' => 'Implementation Plan',
+  'analysis_complete_of' => 'از',
+  'analysis_complete_steps' => 'مرحله.',
+  'unknown_step_key' => 'step_key ناشناخته.',
+  'analysis_step_done' => 'مرحله تحلیل تکمیل شد',
+  'empty_analysis_result' => 'result_json مرحله تحلیل خالی است.',
+  'plan_title' => 'برنامه اجرا',
   'tasks_created_count' => 'وظایف',
-  'fallback_card_summary' => 'The idea is not yet described in sufficient detail. The card was built from در دسترس CRM داده‌ها.',
-  'fallback_fact_title' => 'Idea عنوان:',
-  'fallback_fact_description' => 'Idea توضیحات:',
-  'fallback_category' => 'Category',
-  'fallback_product' => 'Product',
-  'fallback_region' => 'Region',
-  'fallback_target_date' => 'Target date',
-  'fallback_missing_goal' => 'Implementation goal and success criteria',
-  'fallback_missing_audience' => 'Target audience or users',
-  'fallback_missing_budget' => 'Budget and financial constraints',
-  'fallback_missing_timeline' => 'Timeline and critical dates',
-  'fallback_missing_team' => 'تیم and responsible persons',
-  'fallback_missing_legal' => 'Legal or operational constraints',
-  'fallback_missing_risks' => 'Key Risks and dependencies',
-  'fallback_early_risks' => 'AI provider returned incorrect JSON, so the card was built from CRM facts and needs verification at the Next steps.',
-  'fallback_factor_goal' => 'Goal',
-  'fallback_factor_timeline' => 'Timeline',
-  'fallback_factor_budget' => 'Budget',
-  'fallback_factor_responsible' => 'Responsible persons',
-  'fallback_factor_impl_risks' => 'Implementation Risks',
-  'fallback_factor_business_effect' => 'Expected business effect',
-  'fallback_next_step_reason' => 'در دسترس داده‌ها is sufficient to not block further analysis stages; clarifications can be gathered later.',
-  'fallback_idea_label' => 'idea',
-  'fallback_potential_verdict' => 'Preliminary assessment: the idea can be further analyzed, but the result requires verification due to incomplete AI provider response.',
-  'fallback_potential_summary' => 'Potential calculated from در دسترس understanding card and کاربر answers. AI provider returned incorrect JSON, so the assessment is not final.',
-  'fallback_criterion_clarity' => 'Idea clarity',
-  'fallback_criterion_clarity_reason' => 'Assessed by understanding card completeness.',
-  'fallback_criterion_business' => 'Business relevance',
-  'fallback_criterion_business_reason' => 'Assessed by idea توضیحات.',
-  'fallback_criterion_data' => 'Source داده‌ها quality',
-  'fallback_criterion_data_reason' => 'Assessed by number of answers.',
-  'fallback_criterion_readiness' => 'Implementation readiness',
-  'fallback_criterion_readiness_reason' => 'Requires further risk and plan verification.',
-  'fallback_missing_risk' => 'Risks',
-  'fallback_missing_plan' => 'Implementation plan',
-  'fallback_missing_constraints' => 'Constraints',
-  'fallback_strengths' => 'Has an original توضیحات and idea understanding card.',
-  'fallback_weaknesses' => 'Assessment is preliminary because the AI provider did not return a correct structured response.',
-  'fallback_growth_factors' => 'Clarifying goals, budget, timeline and responsible persons will improve assessment quality.',
-  'fallback_risk_factors' => 'Insufficient داده‌ها structuring may distort the potential assessment.',
-  'fallback_missing_financial' => 'Financial constraints',
-  'fallback_missing_success' => 'Success criteria',
-  'fallback_missing_main_risks' => 'Key Risks',
-  'fallback_missing_impl_plan' => 'Implementation plan',
-  'fallback_improve_score' => 'Answer missing questions and recalculate.',
-  'fallback_reduce_score' => 'Critical Risks, unclear budget or missing responsible persons.',
-  'fallback_next_action_reason' => 'Do not block the analysis pipeline, but consider the assessment preliminary.',
-  'fallback_status_refine_first' => 'Refine the idea first',
-  'fallback_final_short_verdict' => 'Preliminary: the idea should be refined and the analysis re-verified.',
-  'fallback_final_detailed_verdict' => 'AI provider returned incorrect JSON at the final recommendation stage. CRM saved a safe preliminary recommendation based on already calculated blocks to not block the کاربر.',
-  'fallback_final_reason1' => 'Result formed from در دسترس analysis blocks.',
-  'fallback_final_reason2' => 'Re-generation is needed for a full AI recommendation.',
-  'fallback_final_negative' => 'Part of the AI response could not be parsed as valid JSON.',
-  'fallback_final_condition1' => 'Verify missing داده‌ها',
-  'fallback_final_condition2' => 'Re-run AI analysis when the provider responds stably',
-  'fallback_validate_goal' => 'Goal',
-  'fallback_validate_budget' => 'Budget',
-  'fallback_validate_timeline' => 'Timeline',
-  'fallback_validate_risks' => 'Risks',
-  'fallback_validate_responsible' => 'Responsible persons',
-  'fallback_action_check_card' => 'Check the understanding card',
-  'fallback_action_clarify_data' => 'Clarify missing داده‌ها',
-  'fallback_action_regenerate' => 'Re-run final recommendation generation',
-  'fallback_wrong_decision' => 'Decision will be made on incomplete داده‌ها.',
-  'fallback_missing_ai_response' => 'Fully correct structured AI provider response',
-  'fallback_final_summary' => 'The system saved a preliminary recommendation, but for the final decision it is better to re-generate after verifying the داده‌ها.',
-  'status_proceed' => 'Can proceed to implementation',
-  'status_proceed_with_validation' => 'Can proceed, but validate hypotheses first',
-  'status_refine_first' => 'Refine the idea first',
-  'status_collect_more_data' => 'Collect missing داده‌ها first',
-  'status_postpone' => 'Better to postpone',
-  'status_reject' => 'Not recommended in Current form',
-  'sm_exact_demand' => 'Exact demand',
-  'sm_budget' => 'Budget',
-  'sm_competitors' => 'Competitors',
-  'sm_q1_text' => 'Where do you plan to implement this idea?',
-  'sm_q1_reason' => 'Location determines the market, customers and costs.',
-  'sm_q1_local' => 'Local market (district/city)',
-  'sm_q1_regional' => 'Regional',
-  'sm_q1_national' => 'Nationwide',
-  'sm_q2_text' => 'What approximate budget are you considering?',
-  'sm_q2_reason' => 'Budget determines the scale and speed of launch.',
-  'sm_q2_minimal' => 'Minimal (up to 150,000 ₽)',
-  'sm_q2_small' => 'Small (150,000 – 500,000 ₽)',
-  'sm_q2_medium' => 'Medium (500,000 – 2,000,000 ₽)',
-  'sm_q3_text' => 'Who is your main target audience?',
-  'sm_q3_reason' => 'Audience determines the product, pricing and promotion.',
-  'sm_q3_individuals' => 'Individuals',
-  'sm_q3_businesses' => 'Businesses / Companies',
-  'sm_q3_both' => 'Both',
-  'sm_q4_text' => 'Do you have experience in this field?',
-  'sm_q4_reason' => 'Experience affects timelines, Risks and training needs.',
-  'sm_q4_experienced' => 'Yes, I have experience',
-  'sm_q4_no_experience' => 'No experience',
-  'sm_q4_have_knowledge' => 'I have theoretical knowledge',
-  'sm_q5_text' => 'What concerns you most about implementing this idea?',
-  'sm_q5_reason' => 'Helps identify key Risks.',
-  'sm_not_sure' => 'Not sure yet',
-  'sm_analysis_summary' => 'is in the development stage.',
-  'sm_idea_described' => 'Idea is described',
-  'sm_no_detailed_data' => 'No detailed داده‌ها for analysis',
-  'sm_check_demand' => 'Check demand in the selected location',
-  'sm_study_competitors' => 'Study nearby competitors',
-  'sm_final_needs_verification' => 'requires verification before investment.',
-  'sm_market_exists' => 'Market exists',
-  'sm_few_data' => 'Limited داده‌ها',
-  'sm_check_demand_before' => 'Check demand before investment',
-  'sm_insufficient_data' => 'Insufficient داده‌ها',
-  'sm_without_data_hard' => 'Hard to assess without داده‌ها',
-  'sm_answer_questions_action' => 'Answer clarification questions',
-  'sm_no_market_analysis' => 'No market analysis',
-  'sm_study_demand_district' => 'Study demand in the selected district',
-  'sm_demand_exists' => 'Demand exists',
-  'sm_survey_audience' => 'Survey the target audience',
-  'sm_positive_answers' => '>20 positive responses',
-  'sm_check_competitors_path' => 'Check demand, study competitors in the selected district.',
-  'sm_action1' => '1. Study competitors within the location radius.',
-  'sm_action2' => '2. Survey district residents.',
-  'sm_action3' => '3. Calculate the minimum budget.',
-  'sm_no_demand_data' => 'No demand داده‌ها',
-  'sm_check_demand_label' => 'Demand',
-  'sm_check_competitors_label' => 'Competitors',
-  'enough_data' => 'Enough داده‌ها',
-  'enough_data_for_analysis' => 'Enough داده‌ها for analysis.',
-  'enough_data_can_analyze' => 'Enough داده‌ها. Analysis can proceed.',
-  'prompt_analyst_system' => 'You are an idea analyst. Analyze the داده‌ها and find gaps.',
-  'system_prompt_card' => 'You are building an "Idea Understanding Card" based on همه در دسترس information.
+  'fallback_card_summary' => 'ایده هنوز به اندازه کافی توضیح داده نشده است. کارت از داده‌های در دسترس CRM ساخته شد.',
+  'fallback_fact_title' => 'عنوان ایده:',
+  'fallback_fact_description' => 'توضیحات ایده:',
+  'fallback_category' => 'دسته',
+  'fallback_product' => 'محصول',
+  'fallback_region' => 'منطقه',
+  'fallback_target_date' => 'تاریخ هدف',
+  'fallback_missing_goal' => 'هدف اجرا و معیارهای موفقیت',
+  'fallback_missing_audience' => 'مخاطبان یا کاربران هدف',
+  'fallback_missing_budget' => 'بودجه و محدودیت‌های مالی',
+  'fallback_missing_timeline' => 'خط زمانی و تاریخ‌های حساس',
+  'fallback_missing_team' => 'تیم و افراد مسئول',
+  'fallback_missing_legal' => 'محدودیت‌های حقوقی یا عملیاتی',
+  'fallback_missing_risks' => 'ریسک‌ها و وابستگی‌های کلیدی',
+  'fallback_early_risks' => 'ارائه‌دهنده AI JSON نادرست بازگرداند، بنابراین کارت از واقعیت‌های CRM ساخته شد و باید در مراحل بعدی راستی‌آزمایی شود.',
+  'fallback_factor_goal' => 'هدف',
+  'fallback_factor_timeline' => 'خط زمانی',
+  'fallback_factor_budget' => 'بودجه',
+  'fallback_factor_responsible' => 'افراد مسئول',
+  'fallback_factor_impl_risks' => 'ریسک‌های اجرا',
+  'fallback_factor_business_effect' => 'اثر کسب‌وکاری مورد انتظار',
+  'fallback_next_step_reason' => 'داده‌های در دسترس برای باز نبودن مراحل بعدی تحلیل کافی است؛ شفاف‌سازی‌ها را می‌توان بعداً گردآوری کرد.',
+  'fallback_idea_label' => 'ایده',
+  'fallback_potential_verdict' => 'ارزیابی اولیه: ایده را می‌توان بیشتر تحلیل کرد، اما نتیجه به دلیل پاسخ ناقص ارائه‌دهنده AI نیازمند راستی‌آزمایی است.',
+  'fallback_potential_summary' => 'پتانسیل از کارت درکِ در دسترس و پاسخ‌های کاربر محاسبه شد. ارائه‌دهنده AI JSON نادرست بازگرداند، بنابراین این ارزیابی قطعی نیست.',
+  'fallback_criterion_clarity' => 'وضوح ایده',
+  'fallback_criterion_clarity_reason' => 'بر اساس کامل بودن کارت درک ارزیابی شده است.',
+  'fallback_criterion_business' => 'ارتباط کسب‌وکاری',
+  'fallback_criterion_business_reason' => 'بر اساس توضیحات ایده ارزیابی شده است.',
+  'fallback_criterion_data' => 'کیفیت داده‌های منبع',
+  'fallback_criterion_data_reason' => 'بر اساس تعداد پاسخ‌ها ارزیابی شده است.',
+  'fallback_criterion_readiness' => 'آمادگی اجرا',
+  'fallback_criterion_readiness_reason' => 'نیازمند راستی‌آزمایی بیشتر ریسک و برنامه است.',
+  'fallback_missing_risk' => 'ریسک‌ها',
+  'fallback_missing_plan' => 'برنامه اجرا',
+  'fallback_missing_constraints' => 'محدودیت‌ها',
+  'fallback_strengths' => 'توضیحات اصلی و کارت درک ایده دارد.',
+  'fallback_weaknesses' => 'ارزیابی اولیه است زیرا ارائه‌دهنده AI پاسخ ساخت‌یافته درستی بازنگرداند.',
+  'fallback_growth_factors' => 'شفاف‌کردن اهداف، بودجه، خط زمانی و افراد مسئول، کیفیت ارزیابی را بهبود می‌دهد.',
+  'fallback_risk_factors' => 'ساختاردهی ناکافی داده‌ها ممکن است ارزیابی پتانسیل را مخدوش کند.',
+  'fallback_missing_financial' => 'محدودیت‌های مالی',
+  'fallback_missing_success' => 'معیارهای موفقیت',
+  'fallback_missing_main_risks' => 'ریسک‌های کلیدی',
+  'fallback_missing_impl_plan' => 'برنامه اجرا',
+  'fallback_improve_score' => 'به پرسش‌های بی‌پاسخ پاسخ دهید و بازمحاسبه کنید.',
+  'fallback_reduce_score' => 'ریسک‌های بحرانی، بودجه مبهم یا فقدان افراد مسئول.',
+  'fallback_next_action_reason' => 'خط لوله تحلیل را نبندید، اما ارزیابی را اولیه بدانید.',
+  'fallback_status_refine_first' => 'ابتدا ایده را اصلاح کنید',
+  'fallback_final_short_verdict' => 'اولیه: ایده باید اصلاح و تحلیل مجدداً راستی‌آزمایی شود.',
+  'fallback_final_detailed_verdict' => 'ارائه‌دهنده AI در مرحله توصیه نهایی JSON نادرست بازگرداند. CRM برای باز نگه‌داشتن کاربر، توصیه اولیه ایمنی را بر اساس بلوک‌های محاسبه‌شده ذخیره کرد.',
+  'fallback_final_reason1' => 'نتیجه از بلوک‌های تحلیلِ در دسترس شکل گرفت.',
+  'fallback_final_reason2' => 'برای توصیه کامل AI، تولید مجدد لازم است.',
+  'fallback_final_negative' => 'بخشی از پاسخ AI را نتوانست به‌عنوان JSON معتبر تجزیه کرد.',
+  'fallback_final_condition1' => 'داده‌های مفقود را راستی‌آزمایی کنید',
+  'fallback_final_condition2' => 'تحلیل AI را زمانی که ارائه‌دهنده پاسخ پایداری می‌دهد دوباره اجرا کنید',
+  'fallback_validate_goal' => 'هدف',
+  'fallback_validate_budget' => 'بودجه',
+  'fallback_validate_timeline' => 'خط زمانی',
+  'fallback_validate_risks' => 'ریسک‌ها',
+  'fallback_validate_responsible' => 'افراد مسئول',
+  'fallback_action_check_card' => 'کارت درک را بررسی کنید',
+  'fallback_action_clarify_data' => 'داده‌های مفقود را شفاف کنید',
+  'fallback_action_regenerate' => 'تولید توصیه نهایی را دوباره اجرا کنید',
+  'fallback_wrong_decision' => 'تصمیم بر اساس داده‌های ناقص گرفته می‌شود.',
+  'fallback_missing_ai_response' => 'پاسخ ساخت‌یافته کاملاً درست ارائه‌دهنده AI',
+  'fallback_final_summary' => 'سیستم توصیه اولیه‌ای ذخیره کرد، اما برای تصمیم نهایی بهتر است پس از راستی‌آزمایی داده‌ها، تولید مجدد انجام شود.',
+  'status_proceed' => 'می‌توان به اجرا رفت',
+  'status_proceed_with_validation' => 'می‌توان ادامه داد، اما ابتدا فرضیه‌ها را اعتبارسنجی کنید',
+  'status_refine_first' => 'ابتدا ایده را اصلاح کنید',
+  'status_collect_more_data' => 'ابتدا داده‌های مفقود را گرد آورید',
+  'status_postpone' => 'بهتر است به بعد موکول شود',
+  'status_reject' => 'در شکل فعلی توصیه نمی‌شود',
+  'sm_exact_demand' => 'تقاضای دقیق',
+  'sm_budget' => 'بودجه',
+  'sm_competitors' => 'رقبا',
+  'sm_q1_text' => 'قصد دارید این ایده را کجا اجرا کنید؟',
+  'sm_q1_reason' => 'موقعیت مکانی، بازار، مشتریان و هزینه‌ها را تعیین می‌کند.',
+  'sm_q1_local' => 'بازار محلی (محله/شهر)',
+  'sm_q1_regional' => 'استانی',
+  'sm_q1_national' => 'سراسری',
+  'sm_q2_text' => 'حدوداً چه بودجه‌ای در نظر دارید؟',
+  'sm_q2_reason' => 'بودجه، مقیاس و سرعت راه‌اندازی را تعیین می‌کند.',
+  'sm_q2_minimal' => 'حداقلی (تا 150,000 ₽)',
+  'sm_q2_small' => 'کوچک (150,000 تا 500,000 ₽)',
+  'sm_q2_medium' => 'متوسط (500,000 تا 2,000,000 ₽)',
+  'sm_q3_text' => 'مخاطبان اصلی شما چه کسانی هستند؟',
+  'sm_q3_reason' => 'مخاطب، محصول، قیمت‌گذاری و تبلیغات را تعیین می‌کند.',
+  'sm_q3_individuals' => 'افراد',
+  'sm_q3_businesses' => ' کسب‌وکارها / شرکت‌ها',
+  'sm_q3_both' => 'هر دو',
+  'sm_q4_text' => 'در این حوزه تجربه دارید؟',
+  'sm_q4_reason' => 'تجربه بر زمان‌بندی، ریسک‌ها و نیازهای آموزشی اثر می‌گذارد.',
+  'sm_q4_experienced' => 'بله، تجربه دارم',
+  'sm_q4_no_experience' => 'بدون تجربه',
+  'sm_q4_have_knowledge' => 'دانش نظری دارم',
+  'sm_q5_text' => 'بزرگ‌ترین نگرانی شما درباره اجرای این ایده چیست؟',
+  'sm_q5_reason' => 'به شناسایی ریسک‌های کلیدی کمک می‌کند.',
+  'sm_not_sure' => 'هنوز مطمئن نیستم',
+  'sm_analysis_summary' => 'در مرحله توسعه است.',
+  'sm_idea_described' => 'ایده توضیح داده شد',
+  'sm_no_detailed_data' => 'داده تفصیلی برای تحلیل وجود ندارد',
+  'sm_check_demand' => 'تقاضا را در موقعیت انتخابی بررسی کنید',
+  'sm_study_competitors' => 'رقبای نزدیک را مطالعه کنید',
+  'sm_final_needs_verification' => 'نیازمند راستی‌آزمایی پیش از سرمایه‌گذاری است.',
+  'sm_market_exists' => 'بازار وجود دارد',
+  'sm_few_data' => 'داده محدود',
+  'sm_check_demand_before' => 'پیش از سرمایه‌گذاری تقاضا را بررسی کنید',
+  'sm_insufficient_data' => 'داده ناکافی',
+  'sm_without_data_hard' => 'بدون داده‌ها ارزیابی دشوار است',
+  'sm_answer_questions_action' => 'به پرسش‌های شفاف‌سازی پاسخ دهید',
+  'sm_no_market_analysis' => 'بدون تحلیل بازار',
+  'sm_study_demand_district' => 'تقاضا را در محله انتخابی مطالعه کنید',
+  'sm_demand_exists' => 'تقاضا وجود دارد',
+  'sm_survey_audience' => 'نظرسنجی از مخاطبان هدف کنید',
+  'sm_positive_answers' => 'بیش از 20 پاسخ مثبت',
+  'sm_check_competitors_path' => 'تقاضا را بررسی و رقبا را در محله انتخابی مطالعه کنید.',
+  'sm_action1' => '1. رقبا را در شعاع موقعیت مکانی مطالعه کنید.',
+  'sm_action2' => '2. از ساکنان محله نظرسنجی کنید.',
+  'sm_action3' => '3. حداقل بودجه را محاسبه کنید.',
+  'sm_no_demand_data' => 'بدون داده تقاضا',
+  'sm_check_demand_label' => 'تقاضا',
+  'sm_check_competitors_label' => 'رقبا',
+  'enough_data' => 'داده کافی',
+  'enough_data_for_analysis' => 'داده کافی برای تحلیل وجود دارد.',
+  'enough_data_can_analyze' => 'داده کافی است. تحلیل می‌تواند ادامه یابد.',
+  'prompt_analyst_system' => 'تو یک تحلیلگر ایده‌ای. داده‌ها را تحلیل و شکاف‌ها را بیاب.',
+  'system_prompt_card' => 'داری «کارت درک ایده» را بر اساس همه اطلاعات در دسترس می‌سازی.
 
-Your وظیفه is NOT to do a final idea analysis. NOT to give a recommendation "worth it / not worth it". NOT to ایجاد a business plan.
-Collect a structured Profile of the Current understanding of the idea for subsequent comprehensive analysis.
+وظیفه تو این نیست که تحلیل نهایی ایده را انجام دهی. نه توصیه «می‌ارزد/نمی‌ارزد» بدهی و نه برنامه کسب‌وکار بسازی.
+یک نمایه ساخت‌یافته از درک فعلی ایده گرد آور تا تحلیل جامع بعدی انجام شود.
 
-Input: original idea داده‌ها, توضیحات, همه clarification questions and answers, covered topics, topics where the کاربر answered "don\'t know".
+ورودی: داده‌های اصلی ایده، توضیحات، همه پرسش‌ها و پاسخ‌های شفاف‌سازی، موضوعات پوشش‌داده‌شده و موضوعاتی که کاربر به آن‌ها «نمی‌دانم» پاسخ داده است.
 
-Rules:
-1. Use only the provided داده‌ها. Do not invent facts.
-2. Separate facts from assumptions.
-3. "don\'t know" / "not yet decided" — this is a fact: the کاربر has not decided.
-4. Do not turn an unclear answer into a specific value.
-5. Do not make a final conclusion about viability.
-6. Do not give advice. Do not evaluate "whether it\'s worth doing".
-7. Determine how well the idea is currently understood and what داده‌ها is missing.
-8. Identify early Risks as preliminary areas of attention.
-9. Identify key factors for subsequent analysis.
-10. completeness.overall and confidence_score — numbers from 0 to 1.
+قواعد:
+1. فقط از داده‌های ارائه‌شده استفاده کن. واقعیتی از خود نساز.
+2. واقعیت‌ها را از فرضیه‌ها جدا کن.
+3. «نمی‌دانم» / «هنوز تصمیم نگرفته‌ام» — این خودش یک واقعیت است: کاربر تصمیم نگرفته است.
+4. پاسخ مبهم را به مقدار مشخص تبدیل نکن.
+5. نتیجه‌گیری نهایی درباره امکان‌پذیری نگیر.
+6. توصیه نده. ارزیابی نکن که «می‌ارزد انجام شود یا نه».
+7. مشخص کن ایده در حال حاضر چقدر فهمیده شده و چه داده‌ای کم است.
+8. ریسک‌های اولیه را به‌عنوان حوزه‌های توجهِ اولیه شناسایی کن.
+9. عوامل کلیدی برای تحلیل بعدی را مشخص کن.
+10. مقادیر completeness.overall و confidence_score — اعدادی بین 0 تا 1.
 11. next_step.action: ask_more_questions / start_analysis / preliminary_analysis.
-12. FORBIDDEN to use { and } symbols inside text values.
-13. If brackets are needed in text — use only ( ) or [ ].
+12. استفاده از نمادهای { و } داخل مقادیر متنی ممنوع است.
+13. اگر در متن به براکت نیاز شد — فقط از ( ) یا [ ] استفاده کن.
 
-Return ONLY valid JSON. No markdown, No comments, No text before or after JSON.
-
-JSON:
-{"idea_profile":{"summary":"brief summary","idea_type":"business","specificity_level":"medium","known_facts":[],"user_unknowns":[],"missing_facts":[],"assumptions":[],"constraints":[],"early_risks":[],"key_decision_factors":[],"completeness":{"overall":0.5,"goal":0.5,"product_or_service":0.5,"audience":0.5,"region":0.5,"finance":0.5,"timeline":0.5,"operations":0.5,"team":0.5,"market":0.5,"legal":0.5,"risks":0.5},"confidence_score":0.5},"next_step":{"action":"start_analysis","reason":"reason","recommended_missing_topics":[],"can_continue_without_more_questions":true}}',
-  'system_prompt_refined_card' => 'You are refining the "Idea Understanding Card" based on همه در دسترس داده‌ها.
-
-You will receive:
-1. existing_understanding_card — card collected earlier
-2. all_questions_and_answers — ALL questions and answers (including clarified ones marked as clarified)
-3. Idea داده‌ها
-
-Your وظیفه: rebuild the card incorporating New answers.
-- Update known_facts based on answers.
-- Move topics from missing_facts/user_unknowns to known_facts if answers covered them.
-- Update completeness_score and confidence_score.
-- Review early_risks, constraints, assumptions.
-- Determine the New next_step.
-
-Rules:
-1. Do not do a final analysis, do not advise.
-2. Use only the provided داده‌ها.
-3. FORBIDDEN to use { and } symbols inside text values.
-4. If brackets are needed in text — use only ( ) or [ ].
-5. Return only JSON, No markdown and No text before or after JSON.
+فقط JSON معتبر برگردان. بدون markdown، بدون توضیح و بدون متن قبل یا بعد از JSON.
 
 JSON:
 {"idea_profile":{"summary":"brief summary","idea_type":"business","specificity_level":"medium","known_facts":[],"user_unknowns":[],"missing_facts":[],"assumptions":[],"constraints":[],"early_risks":[],"key_decision_factors":[],"completeness":{"overall":0.5,"goal":0.5,"product_or_service":0.5,"audience":0.5,"region":0.5,"finance":0.5,"timeline":0.5,"operations":0.5,"team":0.5,"market":0.5,"legal":0.5,"risks":0.5},"confidence_score":0.5},"next_step":{"action":"start_analysis","reason":"reason","recommended_missing_topics":[],"can_continue_without_more_questions":true}}',
-  'system_prompt_risk' => 'You are a risk analysis expert. Assess the idea Risks. Each risk: category, probability 1-5, impact 1-5.
+  'system_prompt_refined_card' => 'داری «کارت درک ایده» را بر اساس همه داده‌های در دسترس اصلاح می‌کنی.
 
-MOST IMPORTANT RULE: FORBIDDEN to use { and } symbols in توضیحات text.
-If brackets are needed in text — use ONLY ( ) or [ ].
-Any { or } symbol inside "توضیحات" or "عنوان" string will make JSON invalid.
-Your response must be ONLY JSON. No text before or after. No markdown fences.
+این موارد را دریافت می‌کنی:
+1. existing_understanding_card — کارتی که پیش‌تر گرد آمده است
+2. all_questions_and_answers — همه پرسش‌ها و پاسخ‌ها (شامل موارد شفاف‌شده با علامت clarified)
+3. داده‌های ایده
+
+وظیفه تو: بازسازی کارت با در نظر گرفتن پاسخ‌های جدید.
+- known_facts را بر اساس پاسخ‌ها به‌روزرسانی کن.
+- موضوعاتی را که پاسخ‌ها پوشش داده‌اند از missing_facts/user_unknowns به known_facts منتقل کن.
+- completeness_score و confidence_score را به‌روزرسانی کن.
+- early_risks، constraints و assumptions را بازبینی کن.
+- next_step جدید را تعیین کن.
+
+قواعد:
+1. تحلیل نهایی نکن، توصیه نده.
+2. فقط از داده‌های ارائه‌شده استفاده کن.
+3. استفاده از نمادهای { و } داخل مقادیر متنی ممنوع است.
+4. اگر در متن به براکت نیاز شد — فقط از ( ) یا [ ] استفاده کن.
+5. فقط JSON برگردان، بدون markdown و بدون متن قبل یا بعد از JSON.
+
+JSON:
+{"idea_profile":{"summary":"brief summary","idea_type":"business","specificity_level":"medium","known_facts":[],"user_unknowns":[],"missing_facts":[],"assumptions":[],"constraints":[],"early_risks":[],"key_decision_factors":[],"completeness":{"overall":0.5,"goal":0.5,"product_or_service":0.5,"audience":0.5,"region":0.5,"finance":0.5,"timeline":0.5,"operations":0.5,"team":0.5,"market":0.5,"legal":0.5,"risks":0.5},"confidence_score":0.5},"next_step":{"action":"start_analysis","reason":"reason","recommended_missing_topics":[],"can_continue_without_more_questions":true}}',
+  'system_prompt_risk' => 'تو یک متخصص تحلیل ریسک هستی. ریسک‌های ایده را ارزیابی کن. هر ریسک: دسته، احتمال 1 تا 5، تأثیر 1 تا 5.
+
+مهم‌ترین قاعده: استفاده از نمادهای { و } در متن توضیحات ممنوع است.
+اگر در متن به براکت نیاز شد — فقط از ( ) یا [ ] استفاده کن.
+هر نماد { یا } داخل رشته «توضیحات» یا «عنوان» JSON را نامعتبر می‌کند.
+پاسخ تو باید فقط JSON باشد. بدون متن قبل و بعد و بدون پرچین markdown.
 
 JSON:
 {"risk_report":{"summary":"Brief summary","overall_risk_score":12,"overall_risk_level":"high","risks":[{"title":"Risk name","category":"finance","description":"Description without { or }","probability_score":3,"impact_score":4,"risk_score":12,"risk_level":"High","mitigation_actions":["Action 1","Action 2"]}],"recommended_first_actions":["First","Second"]}}',
-  'system_prompt_pitfalls' => 'You are analyzing the idea and identifying hidden pitfalls. For each: category, probability 1-5, impact 1-5.
+  'system_prompt_pitfalls' => 'داری ایده را تحلیل و دام‌های پنهان را شناسایی می‌کنی. برای هر مورد: دسته، احتمال 1 تا 5، تأثیر 1 تا 5.
 
-FORBIDDEN to use { or } in توضیحات text. Only ( ) or [ ].
-Your response is ONLY JSON, No text before or after.
+استفاده از { یا } در متن توضیحات ممنوع است. فقط ( ) یا [ ].
+پاسخ تو فقط JSON است، بدون متن قبل و بعد.
 
 JSON:
 {"overall_hidden_complexity":"medium","overall_summary":"Brief summary","data_confidence":0.7,"pitfalls":[{"title":"Name","category":"finance","description":"Description without { }","consequence":"Consequence","probability_score":3,"impact_score":3,"hiddenness_score":3,"urgency_score":2,"mitigation_steps":["Step 1","Step 2"]}]}',
-  'system_prompt_plan' => 'You are creating an implementation plan for the idea. Identify 3-7 stages, 2-4 وظایف each.
+  'system_prompt_plan' => 'داری برنامه اجرای ایده را می‌سازی. 3 تا 7 مرحله شناسایی کن، هر مرحله 2 تا 4 وظیفه.
 
-FORBIDDEN to use { or } in توضیحات text. Only ( ) or [ ].
-Your response is ONLY JSON, No text before or after.
+استفاده از { یا } در متن توضیحات ممنوع است. فقط ( ) یا [ ].
+پاسخ تو فقط JSON است، بدون متن قبل و بعد.
 
 JSON:
 {"implementation_plan":{"summary":"General description","stages":[{"title":"Stage name","goal":"Goal","description":"Description","tasks":[{"title":"Task","description":"Description","priority":"high","expected_result":"Result"}]}],"next_7_days":{"summary":"Next steps","tasks":[{"title":"Task","description":"Description","priority":"high"}]},"recommended_next_action":"First action"}}',
-  'system_prompt_final' => 'You are forming the final recommendation. Rely on already prepared blocks, do not analyze from scratch.
+  'system_prompt_final' => 'داری توصیه نهایی را شکل می‌دهی. به بلوک‌های آماده‌شده تکیه کن و از صفر تحلیل نکن.
 
-Rate on a 0-100 scale: potential_score, feasibility_score, risk_score, data_completeness_score, plan_quality_score, blocker_score, confidence_score.
+در مقیاس 0 تا 100 امتیاز بده: potential_score، feasibility_score، risk_score، data_completeness_score، plan_quality_score، blocker_score، confidence_score.
 
 وضعیت: proceed / proceed_with_validation / refine_first / collect_more_data / postpone / reject_current_form.
 
-Rules:
-1. FORBIDDEN to use { and } symbols inside text values.
-2. If brackets are needed in text — use only ( ) or [ ].
-3. Return only JSON, No markdown and No text before or after JSON.',
-  'system_prompt_project' => 'ایجاد a detailed پروژه plan with وظایف (8-15 total).
+قواعد:
+1. استفاده از نمادهای { و } داخل مقادیر متنی ممنوع است.
+2. اگر در متن به براکت نیاز شد — فقط از ( ) یا [ ] استفاده کن.
+3. فقط JSON برگردان، بدون markdown و بدون متن قبل یا بعد از JSON.',
+  'system_prompt_project' => 'برنامه‌ای تفصیلی برای پروژه با وظایف بساز (مجموعاً 8 تا 15).
 
-FORBIDDEN to use { or } in توضیحات text. Only ( ) or [ ].
-Your response is ONLY JSON, No text before or after.
+استفاده از { یا } در متن توضیحات ممنوع است. فقط ( ) یا [ ].
+پاسخ تو فقط JSON است، بدون متن قبل و بعد.
 
 JSON:
 {"summary":"Project overview","projects":[{"id":"p1","title":"Project name","description":"Description","tasks":[{"id":"t1","title":"Task","description":"Description without curly braces","priority":"high","estimated_time":"2-3 hours","expected_outcome":"Result","subtasks":[{"id":"t1.1","title":"Subtask","description":"Description","priority":"high","estimated_time":"1 hour","expected_outcome":"Result"}]}]}]}',
-  'default_idea_title' => 'idea',
-  'tasks_created' => 'وظایف created',
-  'dont_know_yet' => 'Don\'t know yet',
-  'create_failed' => 'ایجاد operation failed. Check server logs for details.',
-  'ai_operation_failed' => 'AI operation failed. Check server logs for details.',
-  'max_cycles_reached' => 'Maximum question cycles reached',
+  'default_idea_title' => 'ایده',
+  'tasks_created' => 'وظایف ایجاد شدند',
+  'dont_know_yet' => 'هنوز نمی‌دانم',
+  'create_failed' => 'عملیات ایجاد ناموفق بود. برای جزئیات، گزارش‌های سرور را بررسی کنید.',
+  'ai_operation_failed' => 'عملیات AI ناموفق بود. برای جزئیات، گزارش‌های سرور را بررسی کنید.',
+  'max_cycles_reached' => 'به سقف چرخه‌های پرسش رسیدید',
 );

@@ -2,13 +2,13 @@
 declare(strict_types=1);
 
 return array (
-  'ops_system' => 'System OPS وضعیت',
-  'role_matrix' => 'Role and permission matrix',
-  'roles_array_expected' => 'Expected roles array',
-  'role_matrix_update_failed' => 'Failed to Update role matrix',
-  'role_matrix_updated' => 'Role and permission matrix updated',
-  'widgets_summary' => 'Admin widgets summary',
-  'widgets_system' => 'Admin system widgets',
-  'cache_stats' => 'API cache stats',
-  'cache_cleared' => 'API cache cleared',
+  'ops_system' => 'وضعیت عملیات سیستم',
+  'role_matrix' => 'ماتریس نقش و دسترسی',
+  'roles_array_expected' => 'آرایه نقش‌ها انتظار می‌رود',
+  'role_matrix_update_failed' => 'به‌روزرسانی ماتریس نقش‌ها ناموفق بود',
+  'role_matrix_updated' => 'ماتریس نقش و دسترسی به‌روزرسانی شد',
+  'widgets_summary' => 'خلاصه ابزارک‌های مدیریت',
+  'widgets_system' => 'ابزارک‌های سیستمی مدیریت',
+  'cache_stats' => 'آمار حافظه نهان API',
+  'cache_cleared' => 'حافظه نهان API پاک شد',
 );

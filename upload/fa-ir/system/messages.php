@@ -2,15 +2,15 @@
 declare(strict_types=1);
 
 return array (
-  'status' => 'Core Update وضعیت',
-  'check' => 'Core Update check',
-  'changes' => 'Core Update changes',
-  'preflight' => 'Core Update preflight',
-  'session' => 'Core Update session',
-  'history' => 'Core Update history',
-  'recovery_key' => 'Recovery key rotated',
-  'log' => 'Core Update log',
-  'core_version' => 'Core version',
-  'recovery_key_write_failed' => 'Unable to Write the recovery key file.',
-  'core_update_not_available' => 'Core Update not در دسترس.',
+  'status' => 'وضعیت به‌روزرسانی هسته',
+  'check' => 'بررسی به‌روزرسانی هسته',
+  'changes' => 'تغییرات به‌روزرسانی هسته',
+  'preflight' => 'بررسی پیش از پرواز به‌روزرسانی هسته',
+  'session' => 'نشست به‌روزرسانی هسته',
+  'history' => 'تاریخچه به‌روزرسانی هسته',
+  'recovery_key' => 'کلید بازیابی چرخیده شد',
+  'log' => 'گزارش به‌روزرسانی هسته',
+  'core_version' => 'نسخه هسته',
+  'recovery_key_write_failed' => 'نوشتن فایل کلید بازیابی ممکن نشد.',
+  'core_update_not_available' => 'به‌روزرسانی هسته در دسترس نیست.',
 );

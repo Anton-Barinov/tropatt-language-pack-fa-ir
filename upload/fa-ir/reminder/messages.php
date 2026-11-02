@@ -2,10 +2,10 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Reminders list',
-  'created' => 'Reminder created',
-  'not_found' => 'Reminder not found',
-  'detail' => 'Reminder details',
-  'updated' => 'Reminder updated',
-  'deleted' => 'Reminder deleted',
+  'list' => 'فهرست یادآورها',
+  'created' => 'یادآور ایجاد شد',
+  'not_found' => 'یادآور یافت نشد',
+  'detail' => 'جزئیات یادآور',
+  'updated' => 'یادآور به‌روزرسانی شد',
+  'deleted' => 'یادآور حذف شد',
 );

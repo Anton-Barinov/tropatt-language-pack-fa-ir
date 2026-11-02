@@ -2,14 +2,14 @@
 declare(strict_types=1);
 
 return array (
-  'list' => 'Counterparty list',
-  'detail' => 'Counterparty details',
-  'created' => 'Counterparty created',
-  'updated' => 'Counterparty updated',
-  'deleted' => 'Counterparty deleted',
-  'not_found' => 'Counterparty not found',
-  'title_required' => 'عنوان is ضروری',
-  'invalid_type' => 'Invalid counterparty Type',
-  'invalid_inn' => 'Tax INN must contain 10 or 12 digits',
-  'invalid_email' => 'Invalid ایمیل address',
+  'list' => 'فهرست طرف‌های مقابل',
+  'detail' => 'جزئیات طرف مقابل',
+  'created' => 'طرف مقابل ایجاد شد',
+  'updated' => 'طرف مقابل به‌روزرسانی شد',
+  'deleted' => 'طرف مقابل حذف شد',
+  'not_found' => 'طرف مقابل یافت نشد',
+  'title_required' => 'عنوان الزامی است',
+  'invalid_type' => 'نوع طرف مقابل نامعتبر',
+  'invalid_inn' => 'INN مالیاتی باید 10 یا 12 رقم داشته باشد',
+  'invalid_email' => 'نشانی ایمیل نامعتبر',
 );
